@@ -1,0 +1,12 @@
+img{
+    display:block;
+    margin:0 auto;
+    float: right;
+}
+body{
+    background-image: url('首頁背景.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
